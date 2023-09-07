@@ -1,0 +1,23 @@
+NXP Software Content Register
+
+Package:                   an-multiple-usb-audio-formats-on-lpc5500
+
+Version:                   1.0
+Outgoing License:          BSD-3-Clause
+License File:              LICENSE
+Description and comments:  This application note will show you how to implement multiple USB audio formats on the LPC5500 series.
+Release Location:          https://github.com/nxp-appcodehub/an-multiple-usb-audio-formats-on-lpc5500
+Origin:                    NXP (BSD-3-Clause)
+                           CMSIS - ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.6.0
+
+CMSIS                      Name: CMSIS                                     
+                           Version: 5.6.0                                    
+                           Outgoing License: Apache License 2.0              
+                           License File: CMSIS/LICENSE.txt                  
+                           Format: source code                               
+                           Description and comments: Vendor-independent hardware          
+                           abstraction layer for microcontrollers that are   
+                           based on Arm Cortex processors, distributed by    
+                           ARM. cores                                        
+                           Release location: https://github.com/nxp-appcodehub/an-multiple-usb-audio-formats-on-lpc5500/tree/main/CMSIS/                                   
+                           Origin: ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.6.0  

@@ -1,0 +1,22 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="an-multiple-usb-audio-formats-on-lpc5500" type="app_note" format="projectfile" name="multiple-usb-audio-formats-on-lpc5500">
+    <overview>
+        <![CDATA[This application note will show you how to implement multiple USB audio formats on LPC5500 series.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mdk"></toolchain>
+    </toolchains>
+    <families>
+        <family name="lpc"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="LPCXpresso55S69"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="dma"></peripheral>
+        <peripheral name="i2s"></peripheral>
+        <peripheral name="usb"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="audio"></category>
+    </categories>
+</data:item>
